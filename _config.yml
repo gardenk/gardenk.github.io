@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "ko-KR" #"en-US"
 title                    : "Gardenk's blog"
 title_separator          : "|"
-subtitle                 : "뭐라도 하면서 살자" # site tagline that appears below site title in masthead
+subtitle                 : "자부도 체념도 없이" # site tagline that appears below site title in masthead
 name                     : "@gardenk"
 description              : "An amazing website."
 url                      : "https://gardenk.github.io"
